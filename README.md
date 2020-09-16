@@ -31,5 +31,5 @@ Setup a RasPi to use it as storage system using a laptop HDD with a web interfac
 
 This project was born as the need to keep own files in private out of GDrive and accesible from anywhere powered by the love for Open Source technologies.
 
-![Tux](/assets/tux.svg =100x100)
-![RasPi](/assets/pi.svg =100x100)
+![Tux](/assets/tux.svg =100x)
+![RasPi](/assets/pi.svg =100x)
