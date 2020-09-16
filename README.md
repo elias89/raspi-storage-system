@@ -1,4 +1,4 @@
-# RasPi based storage system
+# RasPi based storage
 
 ## Intro
 Setup a RasPi to use it as storage system using a laptop HDD with a web interface.
@@ -7,8 +7,8 @@ Setup a RasPi to use it as storage system using a laptop HDD with a web interfac
 ## Project steps
 
 1. Boot and configure RasPi without keyboard/mouse connected (ssh from external machine) ✅
-2. Connect laptop HDD with carry-disk ✅
-4. Setup webserver to serve specific directory from the HDD
+2. Plug laptop HDD with carry-disk ✅
+4. Setup webserver to serve specific directory from the HDD ⌛️
 5. Build web UI to manage files (download/add/remove/move)
 6. Build login
 7. Make UI accesible from internet
