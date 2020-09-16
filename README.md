@@ -8,8 +8,7 @@ Setup a RasPi to use it as storage system using a laptop HDD with a web interfac
 
 1. Boot and configure RasPi without keyboard/mouse connected (ssh from external machine) ✅
 2. Connect laptop HDD with carry-disk ✅
-3. Install Nginx ⌛️
-4. Setup Nginx to serve specific directory from the HDD
+4. Setup webserver to serve specific directory from the HDD
 5. Build web UI to manage files (download/add/remove/move)
 6. Build login
 7. Make UI accesible from internet
